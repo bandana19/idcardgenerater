@@ -1,0 +1,1 @@
+export const deleteButtonStyle={fontSize:"17px",color:"red"}

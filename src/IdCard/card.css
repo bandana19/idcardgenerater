@@ -1,0 +1,134 @@
+.box-color {
+    background-color: #cfe8fc;
+    width: 100%;
+    padding: 1px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+.id-box {
+    background-color: white;
+    height: 443px;
+    width: 312px;
+    margin: 80px 1%;
+    padding-top: 52px;
+}
+
+.image-box {
+    border: 3px solid #09a7ac;
+    height: 147px;
+    width: 147px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+
+}
+
+.name {
+    text-align: center;
+    font-family: unset;
+    color: #09a7ac;
+    font-weight: 700;
+    height: 37px;
+}
+
+.work{
+    text-align: center;
+    line-height: 1px;
+    font-size: medium;
+    color: #09a7ac;
+}
+.bar-code{
+    height: 64px;
+}
+.footer{
+    height: 80px;
+    margin-top: -40px;
+    background-color: #44B6B6;
+    transform: translate(0px, 35px)!important;
+}
+.saw-image{
+    height: 23px;
+    width: 25px;
+    display: inline-block;
+    margin: 31px;
+    border-radius: 11px;
+    background-color: white;
+    transform: translate(57px, 2px);
+
+}
+.swa{
+    height: 100%;
+}
+.dob{
+    text-align: center;
+    height: 21px;
+}
+.sa{
+    display: inline-block;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    margin-top: 34px;
+    position: absolute;
+    padding-left: 29px;
+}
+.barcode{
+    width: 144px;
+    height: 67px;
+    margin-left: 81px;
+}
+
+/* next box */
+
+.id-box1 {
+    background-color: white;
+    height: 452px;
+    width: 312px;
+    margin: 80px 1%;
+}
+.title{
+    text-align: center;
+    transform: translate(2px, 32px);
+    color:white;
+}
+.image-swa{
+    height: 29px;
+    width: 34px;
+    border-radius: 17px;
+    transform: translate(53px, 61px);
+    background-color: white;
+}
+.logo{
+    height: 100%;
+}
+.header{
+    height: 151px;
+    background-color: #44B6B6;
+}
+
+.contant{
+    height: 66px;
+    background-color: #26A2A0;
+    color: white;
+    margin: 0;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 15px;
+}
+.text{
+    font-size: 13px;
+    font-weight: 600;
+    text-align: end;
+}
+.type{
+    font-size: 13px;
+    text-align: left;
+}
+.discripation{
+    font-size: 12px;
+    padding: 10px 39px;
+    text-align: center;
+}

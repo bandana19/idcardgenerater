@@ -1,0 +1,75 @@
+.change-bankground {
+  height: 100vh;
+  background-color: #cfe8fc;
+}
+
+.setting-icon {
+  text-align: center;
+}
+.setting-button{
+  margin-top:31px;
+  text-align: center;
+}
+
+.modal-box {
+  height: 506px !important;
+}
+
+.cart-modal-box {
+  height: 459px;
+  width: 312px;
+  padding-top: 52px;
+  box-shadow: 0px 10px 20px gray;
+  margin: 0 auto;
+  ;
+}
+
+.sqare {
+  border: 3px solid #09a7ac;
+  height: 147px;
+  width: 147px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 54px;
+
+}
+
+.deletails {
+  font-family: sans-serif;
+  font-weight: 600;
+  margin-left: 12px;
+  margin-top: 14px;
+  line-height: 0.1px;
+}
+
+.text-box {
+  width: 267px !important;
+  margin-top: 20px !important;
+  margin: left 10px !important;
+}
+
+.select-list {
+  width: 278px;
+  padding: 10px;
+  border-radius: 9px;
+}
+
+.MuiPaper-root {
+  min-height: 611px;
+}
+
+.barcode svg{
+  height: 68px;
+  width: 147px;
+}
+.barcode text{
+ display: none;
+}
+
+
+/* .MuiPaper-root{
+  width:157px;
+} */
